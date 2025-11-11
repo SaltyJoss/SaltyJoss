@@ -1,40 +1,40 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.8 kB Used in GitHub's Storage 
+> 📦 302.5 kB Used in GitHub's Storage 
  > 
-> 🏆 363 Contributions in the Year 2025
+> 🏆 343 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-🌆 Daytime                411 commits         ██████████░░░░░░░░░░░░░░░   39.03 % 
-🌃 Evening                370 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌞 Morning                162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌆 Daytime                405 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌃 Evening                344 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌙 Night                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   229 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Tuesday                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Thursday                 221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Saturday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Sunday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Monday                   202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Wednesday                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Thursday                 221 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Saturday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 ```
 
 
@@ -66,10 +66,6 @@ MathCore                 57 mins             ██░░░░░░░░░�
 Windows                  15 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/SaltyJoss/SaltyJoss/Main/assets/bar_graph.png)
-
-
- Last Updated on 11/11/2025 11:10:34 UTC
+ Last Updated on 11/11/2025 11:25:35 UTC
 <!--END_SECTION:waka-->
