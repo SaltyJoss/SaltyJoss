@@ -20,8 +20,13 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_COMMIT: "True"
+          SHOW_EDITORS: "True"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_COMMIT: "True"
+          COMMIT_BY_ME: "True"
+          IGNORED_REPOS: "BOOSE-IDE-Docs, SaltyJoss"   
+          SHOW_LOC_CHART: "False"
+          
           
           
