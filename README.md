@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -49,5 +51,5 @@ Windows                  15 hrs 44 mins      ███████████�
 ```
 
 
- Last Updated on 11/11/2025 11:33:39 UTC
+ Last Updated on 11/11/2025 11:37:45 UTC
 <!--END_SECTION:waka-->
