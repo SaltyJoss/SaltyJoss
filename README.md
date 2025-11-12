@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
@@ -28,28 +28,28 @@ Sunday                   119 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 52 mins       ██████████████░░░░░░░░░░░   56.35 % 
-CSS                      2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Binary                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-HTML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+C#                       8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.98 % 
+C++                      7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+CSS                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Binary                   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+C                        1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-Visual Studio            11 hrs 50 mins      ███████████████████░░░░░░   75.21 % 
-VS Code                  3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Unknown Editor           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Visual Studio            22 hrs 36 mins      █████████████████████░░░░   83.64 % 
+VS Code                  4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Unknown Editor           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-MathAPI                  5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-Unknown Project          3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-ase-boose-assignment-Salt3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-BOOSECoreApp             1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-MathCore                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Project-Pulsar           6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+MathAPI                  5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Unknown Project          4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+ase-boose-assignment-Salt3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Engine                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 💻 Operating System: 
-Windows                  15 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/11/2025 00:24:40 UTC
+ Last Updated on 12/11/2025 02:04:42 UTC
 <!--END_SECTION:waka-->
