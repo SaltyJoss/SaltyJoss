@@ -19,9 +19,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROFILE_VIEWS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_DAYS_OF_WEEK: "True"
           SHOW_PROJECTS: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_DAYS_OF_WEEK: "True"
           SHOW_UPDATED_DATE: "True"
 
           SHOW_EDITORS: "True"
