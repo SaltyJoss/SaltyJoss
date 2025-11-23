@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
 
@@ -20,27 +20,27 @@ Sunday                   139 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      33 hrs 57 mins      ███████████████░░░░░░░░░░   59.66 % 
-GLSL                     11 hrs              █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-C                        8 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Objective-C              2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Other                    51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+C++                      35 hrs 49 mins      ███████████████░░░░░░░░░░   60.66 % 
+GLSL                     11 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+C                        8 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Objective-C              2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Other                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Visual Studio            56 hrs 4 mins       █████████████████████████   98.50 % 
-VS Code                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Visual Studio            58 hrs 12 mins      █████████████████████████   98.55 % 
+VS Code                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 44 hrs 18 mins      ███████████████████░░░░░░   77.83 % 
-Engine                   9 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-MathLib                  2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Unknown Project          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-SimulatorOpenGL          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+RoboticArm_MathModelling 45 hrs 6 mins       ███████████████████░░░░░░   76.37 % 
+Engine                   11 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+MathLib                  2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Unknown Project          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Project-Pulsar           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  56 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  59 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/11/2025 02:25:24 UTC
+ Last Updated on 23/11/2025 04:37:57 UTC
 <!--END_SECTION:waka-->
