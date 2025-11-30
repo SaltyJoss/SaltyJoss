@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,27 +20,27 @@ Sunday                   141 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      40 hrs 16 mins      ████████████████░░░░░░░░░   62.03 % 
-C                        7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Binary                   4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Objective-C              4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-C#                       3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+C++                      36 hrs 24 mins      █████████████░░░░░░░░░░░░   51.67 % 
+C#                       12 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+C                        7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Binary                   5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Objective-C              3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Editors: 
-Visual Studio            63 hrs 25 mins      ████████████████████████░   97.68 % 
-VS Code                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Visual Studio            68 hrs 56 mins      ████████████████████████░   97.86 % 
+VS Code                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 39 hrs 5 mins       ███████████████░░░░░░░░░░   60.19 % 
-Engine                   16 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-MathAPI                  4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-MathAPI-Cloud            4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Unknown Project          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+RoboticArm_MathModelling 35 hrs 30 mins      █████████████░░░░░░░░░░░░   50.40 % 
+Engine                   14 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+ase-boose-assignment-Salt6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+MathAPI                  4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+BOOSECoreApp             4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Windows                  64 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  70 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/11/2025 02:24:03 UTC
+ Last Updated on 30/11/2025 04:38:57 UTC
 <!--END_SECTION:waka-->
