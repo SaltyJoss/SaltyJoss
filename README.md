@@ -20,27 +20,27 @@ Sunday                   213 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       55 hrs 34 mins      ███████████████████░░░░░░   77.13 % 
-Binary                   9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Markdown                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-C++                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Objective-C              1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+C#                       44 hrs 43 mins      ███████████████████░░░░░░   77.40 % 
+Binary                   6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Markdown                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+C++                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Objective-C              1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Visual Studio            71 hrs 55 mins      █████████████████████████   99.84 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Visual Studio            57 hrs 40 mins      █████████████████████████   99.80 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-ase-boose-assignment-Salt47 hrs 21 mins      ████████████████░░░░░░░░░   65.73 % 
-BOOSECoreApp             17 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-RoboticArm_MathModelling 3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-BOOSE-IDE-Docs           2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-MathLib                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+ase-boose-assignment-Salt38 hrs 38 mins      █████████████████░░░░░░░░   66.86 % 
+BOOSECoreApp             12 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+RoboticArm_MathModelling 3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+BOOSE-IDE-Docs           2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+MathLib                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Windows                  72 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  57 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/12/2025 02:11:47 UTC
+ Last Updated on 10/12/2025 04:39:52 UTC
 <!--END_SECTION:waka-->
