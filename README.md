@@ -20,27 +20,27 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.21 % 
-Binary                   2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-JavaScript               2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C++                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+C#                       3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
+Binary                   1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+JavaScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+C++                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+C                        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-Visual Studio            12 hrs 6 mins       ███████████████████████░░   90.80 % 
-VS Code                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Visual Studio            7 hrs 50 mins       █████████████████████████   99.04 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-MathAPI-Cloud            8 hrs 33 mins       ████████████████░░░░░░░░░   64.20 % 
-MathAPI                  3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Project-Pulsar           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Engine                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-RoboticArm_MathModelling 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+MathAPI-Cloud            4 hrs 30 mins       ██████████████░░░░░░░░░░░   57.00 % 
+MathAPI                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Project-Pulsar           48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Engine                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+RoboticArm_MathModelling 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 💻 Operating System: 
-Windows                  13 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/12/2025 02:11:43 UTC
+ Last Updated on 24/12/2025 04:42:34 UTC
 <!--END_SECTION:waka-->
