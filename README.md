@@ -20,26 +20,24 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JavaScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-C++                      49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-C                        49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Binary                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Text                     55 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+C++                      49 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+C                        49 mins             ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+GLSL                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 22 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.91 % 
-MathAPI                  1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Project-Pulsar           48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Engine                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-MathAPI-Cloud            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+RoboticArm_MathModelling 1 hr 31 mins        █████████████░░░░░░░░░░░░   52.85 % 
+Project-Pulsar           48 mins             ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Engine                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/12/2025 02:10:38 UTC
+ Last Updated on 27/12/2025 04:38:43 UTC
 <!--END_SECTION:waka-->
