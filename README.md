@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -20,24 +20,24 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     55 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
-C++                      49 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-C                        49 mins             ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-GLSL                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+C++                      4 hrs 50 mins       ██████████████░░░░░░░░░░░   56.70 % 
+C                        1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+GLSL                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 53 mins       █████████████████████████   100.00 % 
+Visual Studio            8 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 1 hr 31 mins        █████████████░░░░░░░░░░░░   52.85 % 
-Project-Pulsar           48 mins             ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Engine                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+RoboticArm_MathModelling 5 hrs 36 mins       ████████████████░░░░░░░░░   65.86 % 
+Engine                   2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Project-Pulsar           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/12/2025 02:31:54 UTC
+ Last Updated on 28/12/2025 04:51:49 UTC
 <!--END_SECTION:waka-->
