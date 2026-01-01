@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,23 +20,23 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      10 hrs 35 mins      ███████████████░░░░░░░░░░   59.69 % 
-GLSL                     4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-C                        1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Objective-C              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+C++                      12 hrs 26 mins      ███████████████░░░░░░░░░░   59.31 % 
+GLSL                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+C                        2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Visual Studio            17 hrs 43 mins      █████████████████████████   100.00 % 
+Visual Studio            20 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 13 hrs 6 mins       ██████████████████░░░░░░░   73.89 % 
-Engine                   4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+RoboticArm_MathModelling 15 hrs 44 mins      ███████████████████░░░░░░   75.07 % 
+Engine                   5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
 
 💻 Operating System: 
-Windows                  17 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/01/2026 02:32:36 UTC
+ Last Updated on 01/01/2026 04:53:58 UTC
 <!--END_SECTION:waka-->
