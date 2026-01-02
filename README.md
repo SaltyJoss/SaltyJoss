@@ -20,23 +20,22 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      12 hrs 26 mins      ███████████████░░░░░░░░░░   59.31 % 
-GLSL                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-C                        2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+C++                      12 hrs 25 mins      ████████████████░░░░░░░░░   62.06 % 
+GLSL                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+C                        2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Visual Studio            20 hrs 58 mins      █████████████████████████   100.00 % 
+Visual Studio            20 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 15 hrs 44 mins      ███████████████████░░░░░░   75.07 % 
-Engine                   5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+RoboticArm_MathModelling 14 hrs 59 mins      ███████████████████░░░░░░   74.91 % 
+Engine                   5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
 
 💻 Operating System: 
-Windows                  20 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/01/2026 02:23:12 UTC
+ Last Updated on 02/01/2026 04:49:12 UTC
 <!--END_SECTION:waka-->
