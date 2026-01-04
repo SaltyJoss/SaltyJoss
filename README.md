@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -20,22 +20,25 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      12 hrs 25 mins      ████████████████░░░░░░░░░   62.01 % 
-GLSL                     4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-C                        2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+C++                      8 hrs 25 mins       █████████████░░░░░░░░░░░░   51.45 % 
+GLSL                     3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+C#                       1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+C                        1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Objective-C              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Visual Studio            20 hrs 2 mins       █████████████████████████   100.00 % 
+Visual Studio            16 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 15 hrs              ███████████████████░░░░░░   74.91 % 
-Engine                   5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+RoboticArm_MathModelling 10 hrs 55 mins      █████████████████░░░░░░░░   66.77 % 
+Engine                   3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+ase-boose-assignment-Salt1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+BOOSECoreApp             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  20 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/01/2026 02:34:16 UTC
+ Last Updated on 04/01/2026 04:54:34 UTC
 <!--END_SECTION:waka-->
