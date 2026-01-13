@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   668 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Tuesday                  450 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Thursday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Friday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Saturday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Sunday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Monday                   668 commits         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Tuesday                  457 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Wednesday                213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Thursday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Friday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Saturday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Sunday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 
@@ -20,26 +20,26 @@ Sunday                   277 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      15 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.67 % 
-C                        10 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.82 % 
-C#                       5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Objective-C              1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-CMake                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+C++                      24 hrs 41 mins      ███████████████░░░░░░░░░░   59.86 % 
+C                        12 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+C#                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Objective-C              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+CMake                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Visual Studio            34 hrs 27 mins      █████████████████████████   100.00 % 
+Visual Studio            41 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 20 hrs 42 mins      ███████████████░░░░░░░░░░   60.08 % 
-Engine                   7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-ase-boose-assignment-Salt4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-BOOSECoreApp             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+RoboticArm_MathModelling 27 hrs 44 mins      █████████████████░░░░░░░░   67.26 % 
+Engine                   10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+ase-boose-assignment-Salt1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+BOOSECoreApp             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  34 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/01/2026 02:21:04 UTC
+ Last Updated on 13/01/2026 04:49:05 UTC
 <!--END_SECTION:waka-->
