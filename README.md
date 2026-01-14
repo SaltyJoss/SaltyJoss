@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -20,26 +20,26 @@ Sunday                   277 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      24 hrs 41 mins      ███████████████░░░░░░░░░░   59.86 % 
-C                        12 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-C#                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Objective-C              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CMake                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+C++                      32 hrs 19 mins      █████████████████░░░░░░░░   68.15 % 
+C                        11 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+C#                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+CMake                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Visual Studio            41 hrs 14 mins      █████████████████████████   100.00 % 
+Visual Studio            47 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 27 hrs 44 mins      █████████████████░░░░░░░░   67.26 % 
-Engine                   10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-ase-boose-assignment-Salt1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-BOOSECoreApp             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+RoboticArm_MathModelling 32 hrs 28 mins      █████████████████░░░░░░░░   68.47 % 
+Engine                   12 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+ase-boose-assignment-Salt1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+BOOSECoreApp             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  41 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2026 02:28:04 UTC
+ Last Updated on 14/01/2026 04:51:50 UTC
 <!--END_SECTION:waka-->
