@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -20,26 +20,26 @@ Sunday                   277 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      32 hrs 19 mins      █████████████████░░░░░░░░   68.15 % 
-C                        11 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-C#                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Objective-C              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-CMake                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+C++                      35 hrs 38 mins      ███████████████████░░░░░░   75.67 % 
+C                        8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+C#                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+CMake                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Objective-C              39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Visual Studio            47 hrs 26 mins      █████████████████████████   100.00 % 
+Visual Studio            47 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 32 hrs 28 mins      █████████████████░░░░░░░░   68.47 % 
-Engine                   12 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-ase-boose-assignment-Salt1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+RoboticArm_MathModelling 31 hrs 10 mins      █████████████████░░░░░░░░   66.19 % 
+Engine                   13 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+ase-boose-assignment-Salt1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Computational_Graphics_Li39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 BOOSECoreApp             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  47 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/01/2026 02:22:24 UTC
+ Last Updated on 15/01/2026 04:50:12 UTC
 <!--END_SECTION:waka-->
