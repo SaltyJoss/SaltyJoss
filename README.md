@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -20,25 +20,24 @@ Sunday                   277 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      51 hrs 6 mins       ████████████████████░░░░░   81.46 % 
-C                        10 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Objective-C              43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-C#                       19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+C++                      54 hrs 44 mins      ██████████████████████░░░   86.87 % 
+C                        7 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Objective-C              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Visual Studio            62 hrs 44 mins      █████████████████████████   100.00 % 
+Visual Studio            63 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 43 hrs 17 mins      █████████████████░░░░░░░░   69.00 % 
-Engine                   19 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
-ase-boose-assignment-Salt19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-BOOSECoreApp             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+RoboticArm_MathModelling 43 hrs 32 mins      █████████████████░░░░░░░░   69.09 % 
+Engine                   19 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   30.84 % 
+ase-boose-assignment-Salt2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  62 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  63 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/01/2026 02:32:30 UTC
+ Last Updated on 18/01/2026 04:48:23 UTC
 <!--END_SECTION:waka-->
