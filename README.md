@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -20,23 +20,23 @@ Sunday                   301 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      50 hrs 5 mins       █████████████████████░░░░   85.22 % 
-C                        7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Objective-C              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++                      43 hrs 45 mins      ████████████████████░░░░░   78.35 % 
+C                        6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+GLSL                     4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Objective-C              41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Visual Studio            58 hrs 47 mins      █████████████████████████   100.00 % 
+Visual Studio            55 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 40 hrs 25 mins      █████████████████░░░░░░░░   68.76 % 
-Engine                   18 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.24 % 
+RoboticArm_MathModelling 36 hrs 58 mins      █████████████████░░░░░░░░   66.20 % 
+Engine                   18 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.80 % 
 
 💻 Operating System: 
-Windows                  58 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  55 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/01/2026 02:27:18 UTC
+ Last Updated on 21/01/2026 04:52:27 UTC
 <!--END_SECTION:waka-->
