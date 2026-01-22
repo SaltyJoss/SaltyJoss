@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -20,23 +20,23 @@ Sunday                   301 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      43 hrs 45 mins      ████████████████████░░░░░   78.35 % 
-C                        6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-GLSL                     4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Objective-C              41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C++                      44 hrs 35 mins      ███████████████████░░░░░░   74.77 % 
+C                        8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+GLSL                     4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Objective-C              58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-Visual Studio            55 hrs 51 mins      █████████████████████████   100.00 % 
+Visual Studio            59 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 36 hrs 58 mins      █████████████████░░░░░░░░   66.20 % 
-Engine                   18 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.80 % 
+RoboticArm_MathModelling 38 hrs 42 mins      ████████████████░░░░░░░░░   64.90 % 
+Engine                   20 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.10 % 
 
 💻 Operating System: 
-Windows                  55 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  59 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/01/2026 02:28:20 UTC
+ Last Updated on 22/01/2026 04:55:01 UTC
 <!--END_SECTION:waka-->
