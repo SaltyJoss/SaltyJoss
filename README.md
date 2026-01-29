@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -20,24 +20,24 @@ Sunday                   309 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      57 hrs 21 mins      ███████████████████░░░░░░   74.76 % 
-C                        11 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Objective-C              4 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-JSON                     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-GLSL                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C++                      56 hrs 36 mins      ███████████████████░░░░░░   75.52 % 
+C                        10 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Objective-C              4 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     3 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Visual Studio            76 hrs 41 mins      █████████████████████████   99.97 % 
+Visual Studio            74 hrs 55 mins      █████████████████████████   99.97 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 49 hrs 46 mins      ████████████████░░░░░░░░░   64.88 % 
-Engine                   26 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.12 % 
+RoboticArm_MathModelling 49 hrs 23 mins      ████████████████░░░░░░░░░   65.89 % 
+Engine                   25 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   34.11 % 
 
 💻 Operating System: 
-Windows                  76 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  74 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/01/2026 02:44:38 UTC
+ Last Updated on 29/01/2026 05:11:21 UTC
 <!--END_SECTION:waka-->
