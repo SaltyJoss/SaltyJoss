@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -20,24 +20,25 @@ Sunday                   337 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      59 hrs 51 mins      ████████████████████░░░░░   78.65 % 
-C                        8 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Objective-C              4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-GLSL                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JSON                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+C++                      60 hrs 44 mins      ████████████████████░░░░░   80.14 % 
+C                        8 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+GLSL                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Objective-C              1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Visual Studio            75 hrs 54 mins      █████████████████████████   99.74 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Visual Studio            75 hrs 32 mins      █████████████████████████   99.67 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 51 hrs 13 mins      █████████████████░░░░░░░░   67.31 % 
-Engine                   24 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.69 % 
+RoboticArm_MathModelling 52 hrs 15 mins      █████████████████░░░░░░░░   68.94 % 
+Engine                   23 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  76 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  75 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/02/2026 00:32:08 UTC
+ Last Updated on 03/02/2026 02:50:42 UTC
 <!--END_SECTION:waka-->
