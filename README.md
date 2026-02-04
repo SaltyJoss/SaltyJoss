@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   710 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Tuesday                  575 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Thursday                 529 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Friday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Saturday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Sunday                   353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Monday                   768 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Tuesday                  689 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Wednesday                306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Thursday                 643 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Friday                   399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 555 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Sunday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 
 
@@ -20,25 +20,25 @@ Sunday                   353 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      60 hrs 44 mins      ████████████████████░░░░░   80.14 % 
-C                        8 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-GLSL                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Objective-C              1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+C++                      51 hrs 31 mins      ███████████████████░░░░░░   74.21 % 
+C                        8 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+GLSL                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Visual Studio            75 hrs 32 mins      █████████████████████████   99.67 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Visual Studio            68 hrs 38 mins      █████████████████████████   98.86 % 
+VS Code                  47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 52 hrs 15 mins      █████████████████░░░░░░░░   68.94 % 
-Engine                   23 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+RoboticArm_MathModelling 46 hrs 45 mins      █████████████████░░░░░░░░   67.34 % 
+Engine                   22 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  75 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  69 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/02/2026 02:46:22 UTC
+ Last Updated on 04/02/2026 05:14:19 UTC
 <!--END_SECTION:waka-->
