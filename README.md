@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
@@ -20,25 +20,25 @@ Sunday                   441 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      50 hrs 4 mins       ███████████████████░░░░░░   76.29 % 
-C                        8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-GLSL                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Other                    57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+C++                      48 hrs 48 mins      ██████████████████░░░░░░░   73.95 % 
+C                        9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+GLSL                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Visual Studio            64 hrs 58 mins      █████████████████████████   98.98 % 
+Visual Studio            65 hrs 19 mins      █████████████████████████   98.98 % 
 VS Code                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 46 hrs 14 mins      ██████████████████░░░░░░░   70.45 % 
-Engine                   19 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+RoboticArm_MathModelling 44 hrs 34 mins      █████████████████░░░░░░░░   67.53 % 
+Engine                   21 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   32.11 % 
 Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  65 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  65 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/02/2026 02:44:27 UTC
+ Last Updated on 07/02/2026 05:10:04 UTC
 <!--END_SECTION:waka-->
