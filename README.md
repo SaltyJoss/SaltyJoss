@@ -1,27 +1,27 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      53 hrs 45 mins      ███████████████████░░░░░░   75.45 % 
-C                        11 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Objective-C              1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C++                      49 hrs 11 mins      █████████████████░░░░░░░░   68.80 % 
+C                        10 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JSON                     6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Objective-C              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Visual Studio            70 hrs 37 mins      █████████████████████████   99.13 % 
-VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Visual Studio            70 hrs 55 mins      █████████████████████████   99.20 % 
+VS Code                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 47 hrs 16 mins      █████████████████░░░░░░░░   66.35 % 
-Engine                   23 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+RoboticArm_MathModelling 47 hrs 13 mins      █████████████████░░░░░░░░   66.06 % 
+Engine                   23 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
 Assimp                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 10/02/2026 01:26:29 UTC
+ Last Updated on 10/02/2026 05:24:11 UTC
 <!--END_SECTION:waka-->
