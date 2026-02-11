@@ -1,27 +1,25 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      49 hrs 11 mins      █████████████████░░░░░░░░   68.80 % 
-C                        10 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JSON                     6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Objective-C              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+C++                      46 hrs 51 mins      ██████████████████░░░░░░░   71.17 % 
+C                        8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+JSON                     8 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Objective-C              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Visual Studio            70 hrs 55 mins      █████████████████████████   99.20 % 
-VS Code                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Visual Studio            65 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 47 hrs 13 mins      █████████████████░░░░░░░░   66.06 % 
-Engine                   23 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Assimp                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+RoboticArm_MathModelling 43 hrs 43 mins      █████████████████░░░░░░░░   66.41 % 
+Engine                   21 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Assimp                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 
- Last Updated on 11/02/2026 01:24:06 UTC
+ Last Updated on 11/02/2026 05:23:15 UTC
 <!--END_SECTION:waka-->
