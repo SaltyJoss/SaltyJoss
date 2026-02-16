@@ -5,22 +5,21 @@
 
 ```text
 💬 Programming Languages: 
-C++                      40 hrs 9 mins       ████████████████░░░░░░░░░   63.44 % 
-JSON                     12 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-C                        7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Objective-C              45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-GLSL                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+C++                      31 hrs 27 mins      ███████████████░░░░░░░░░░   60.65 % 
+JSON                     12 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+C                        5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+GLSL                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Objective-C              40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Visual Studio            63 hrs 17 mins      █████████████████████████   100.00 % 
+Visual Studio            51 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 42 hrs 8 mins       █████████████████░░░░░░░░   66.59 % 
-Engine                   20 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Assimp                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+RoboticArm_MathModelling 34 hrs 15 mins      █████████████████░░░░░░░░   66.03 % 
+Engine                   17 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
- Last Updated on 16/02/2026 01:16:32 UTC
+ Last Updated on 16/02/2026 05:22:50 UTC
 <!--END_SECTION:waka-->
