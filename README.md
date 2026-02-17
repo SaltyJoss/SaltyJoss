@@ -1,25 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      31 hrs 27 mins      ███████████████░░░░░░░░░░   60.65 % 
-JSON                     12 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-C                        5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-GLSL                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Objective-C              40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C++                      24 hrs 46 mins      ████████████████░░░░░░░░░   62.92 % 
+JSON                     6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+C                        4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+GLSL                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Visual Studio            51 hrs 52 mins      █████████████████████████   100.00 % 
+Visual Studio            37 hrs 47 mins      ████████████████████████░   95.97 % 
+VS Code                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 34 hrs 15 mins      █████████████████░░░░░░░░   66.03 % 
-Engine                   17 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+RoboticArm_MathModelling 24 hrs 23 mins      ███████████████░░░░░░░░░░   61.91 % 
+Engine                   12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.31 % 
+Unknown Project          2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 
- Last Updated on 17/02/2026 01:15:51 UTC
+ Last Updated on 17/02/2026 05:17:35 UTC
 <!--END_SECTION:waka-->
