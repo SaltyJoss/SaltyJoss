@@ -1,28 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      31 hrs 15 mins      █████████████████░░░░░░░░   66.62 % 
-C                        5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-JSON                     4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-CMake                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+C++                      32 hrs 6 mins       █████████████████░░░░░░░░   69.12 % 
+C                        8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+JSON                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+CMake                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Visual Studio            44 hrs 49 mins      ████████████████████████░   95.55 % 
-VS Code                  2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Visual Studio            44 hrs 21 mins      ████████████████████████░   95.50 % 
+VS Code                  2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🐱‍💻 Projects: 
-RoboticArm_MathModelling 28 hrs 11 mins      ███████████████░░░░░░░░░░   60.10 % 
-Engine                   13 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-Unknown Project          2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-stellar-dynamics-cpp     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-StellarDynamics          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+RoboticArm_MathModelling 27 hrs 54 mins      ███████████████░░░░░░░░░░   60.08 % 
+Engine                   13 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Unknown Project          2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+stellar-dynamics-cpp     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+StellarDynamics          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
- Last Updated on 19/02/2026 01:17:18 UTC
+ Last Updated on 19/02/2026 05:17:47 UTC
 <!--END_SECTION:waka-->
