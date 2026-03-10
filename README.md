@@ -5,21 +5,21 @@
 
 ```text
 💬 Programming Languages: 
-C++                      18 hrs 24 mins      ██████████████████░░░░░░░   71.24 % 
-C                        4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-CMake                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Objective-C              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-GLSL                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+C++                      9 hrs 55 mins       ██████████████████░░░░░░░   73.79 % 
+C                        2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+GLSL                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CMake                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Visual Studio            25 hrs 50 mins      █████████████████████████   100.00 % 
+Visual Studio            13 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stellar-dynamics-cpp     23 hrs 27 mins      ███████████████████████░░   90.82 % 
-Engine                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-RoboticArm_MathModelling 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+stellar-dynamics-cpp     11 hrs 39 mins      ██████████████████████░░░   86.64 % 
+Engine                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+RoboticArm_MathModelling 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 
 
- Last Updated on 10/03/2026 01:09:07 UTC
+ Last Updated on 10/03/2026 05:05:39 UTC
 <!--END_SECTION:waka-->
