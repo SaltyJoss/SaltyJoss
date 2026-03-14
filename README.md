@@ -5,18 +5,15 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 42 mins        ████████████████████████░   95.20 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Engine                   1 hr 16 mins        ██████████████████░░░░░░░   70.54 % 
-RoboticArm_MathModelling 31 mins             ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/03/2026 01:12:10 UTC
+ Last Updated on 14/03/2026 05:06:09 UTC
 <!--END_SECTION:waka-->
