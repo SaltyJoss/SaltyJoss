@@ -5,19 +5,15 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 30 mins        ████████████████░░░░░░░░░   64.71 % 
-GLSL                     46 mins             ████████░░░░░░░░░░░░░░░░░   33.20 % 
-CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-stellar-dynamics-cpp     2 hrs 6 mins        ███████████████████████░░   90.45 % 
-StellarDynamics          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/03/2026 01:17:47 UTC
+ Last Updated on 25/03/2026 05:19:31 UTC
 <!--END_SECTION:waka-->
