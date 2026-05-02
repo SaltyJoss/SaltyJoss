@@ -1,19 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    3 hrs 19 mins       ██████████████████░░░░░░░   72.45 % 
+C++                      51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+C                        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            4 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RoboticArm_MathModelling 3 hrs 9 mins        █████████████████░░░░░░░░   68.79 % 
+Engine                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+stellar-dynamics-cpp     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+StellarDynamics          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 
- Last Updated on 02/05/2026 01:52:35 UTC
+ Last Updated on 02/05/2026 06:00:41 UTC
 <!--END_SECTION:waka-->
