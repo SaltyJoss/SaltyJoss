@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,5 +22,5 @@ glm-src                  0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/05/2026 21:17:11 UTC
+ Last Updated on 14/05/2026 02:13:07 UTC
 <!--END_SECTION:waka-->
