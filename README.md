@@ -5,20 +5,20 @@
 
 ```text
 💬 Programming Languages: 
-C++                      28 hrs 10 mins      ████████████████░░░░░░░░░   63.14 % 
-C                        13 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.69 % 
-Objective-C              2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C++                      23 hrs 53 mins      ███████████████░░░░░░░░░░   60.53 % 
+C                        12 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Objective-C              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Visual Studio            44 hrs 37 mins      █████████████████████████   100.00 % 
+Visual Studio            39 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-44 hrs 35 mins      █████████████████████████   99.95 % 
+Dynamic-System-Framework-39 hrs 26 mins      █████████████████████████   99.95 % 
 eigen-src                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 30/05/2026 02:07:57 UTC
+ Last Updated on 30/05/2026 06:40:01 UTC
 <!--END_SECTION:waka-->
