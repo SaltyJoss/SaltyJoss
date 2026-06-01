@@ -1,24 +1,25 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      22 hrs 26 mins      ████████████████░░░░░░░░░   63.00 % 
-C                        10 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   30.73 % 
-Objective-C              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C++                      23 hrs 33 mins      ███████████████████░░░░░░   76.49 % 
+C                        6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Objective-C              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Visual Studio            35 hrs 37 mins      █████████████████████████   100.00 % 
+Visual Studio            30 hrs 37 mins      █████████████████████████   99.47 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-35 hrs 36 mins      █████████████████████████   99.93 % 
-eigen-src                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dynamic-System-Framework-30 hrs 46 mins      █████████████████████████   99.96 % 
+eigen-src                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 01/06/2026 02:43:08 UTC
+ Last Updated on 01/06/2026 09:12:03 UTC
 <!--END_SECTION:waka-->
