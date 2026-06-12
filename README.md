@@ -5,19 +5,19 @@
 
 ```text
 💬 Programming Languages: 
-C++                      29 hrs 9 mins       ███████████████████░░░░░░   76.86 % 
-C                        5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-CMake                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Objective-C              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+C++                      23 hrs 27 mins      ███████████████████░░░░░░   76.57 % 
+C                        4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Visual Studio            37 hrs 55 mins      █████████████████████████   100.00 % 
+Visual Studio            30 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-37 hrs 55 mins      █████████████████████████   100.00 % 
+Dynamic-System-Framework-30 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 02:37:11 UTC
+ Last Updated on 12/06/2026 08:15:41 UTC
 <!--END_SECTION:waka-->
