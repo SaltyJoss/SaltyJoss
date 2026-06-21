@@ -1,27 +1,27 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      9 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-C                        5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-CMake                    4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-JSON                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Objective-C              2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+CMake                    6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+C++                      5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+JSON                     3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+C                        2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Visual Studio            26 hrs 4 mins       ████████████████████████░   96.64 % 
-VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Visual Studio            18 hrs 21 mins      █████████████████████░░░░   85.44 % 
+VS Code                  3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-26 hrs 37 mins      █████████████████████████   98.68 % 
-PxM-Lib                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-glm-src                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Dynamic-System-Framework-18 hrs 54 mins      ██████████████████████░░░   87.99 % 
+PxM-Lib                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+glm-src                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 21/06/2026 02:45:19 UTC
+ Last Updated on 21/06/2026 08:20:58 UTC
 <!--END_SECTION:waka-->
