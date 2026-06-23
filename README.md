@@ -1,27 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-CMake                    6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
-C++                      4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-JSON                     3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-C                        2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+C++                      10 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
+CMake                    7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+C                        5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+JSON                     4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-Visual Studio            16 hrs 42 mins      ██████████████████████░░░   86.16 % 
-VS Code                  2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Visual Studio            16 hrs 45 mins      █████████████░░░░░░░░░░░░   52.88 % 
+VS Code                  14 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.12 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-16 hrs 48 mins      ██████████████████████░░░   86.69 % 
-PxM-Lib                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-glm-src                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dynamic-System-Framework-17 hrs 2 mins       █████████████░░░░░░░░░░░░   53.78 % 
+Nomadic-Gateway-Demo     11 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
+PxM-Lib                  2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+glm-src                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 23/06/2026 02:13:47 UTC
+ Last Updated on 23/06/2026 07:39:23 UTC
 <!--END_SECTION:waka-->
