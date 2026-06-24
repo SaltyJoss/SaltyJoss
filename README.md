@@ -5,24 +5,23 @@
 
 ```text
 💬 Programming Languages: 
-C++                      10 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
-CMake                    7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-C                        5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-JSON                     4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-YAML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+C++                      7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
+CMake                    4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+C                        3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Visual Studio            16 hrs 45 mins      █████████████░░░░░░░░░░░░   52.88 % 
-VS Code                  14 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.12 % 
+VS Code                  14 hrs 49 mins      █████████████████████░░░░   82.35 % 
+Visual Studio            3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-17 hrs 2 mins       █████████████░░░░░░░░░░░░   53.78 % 
-Nomadic-Gateway-Demo     11 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
-PxM-Lib                  2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-glm-src                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Nomadic-Gateway-Demo     11 hrs 54 mins      █████████████████░░░░░░░░   66.14 % 
+Dynamic-System-Framework-3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+PxM-Lib                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 24/06/2026 02:14:52 UTC
+ Last Updated on 24/06/2026 07:32:36 UTC
 <!--END_SECTION:waka-->
