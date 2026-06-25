@@ -1,27 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-CMake                    4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-C                        3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+C++                      7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+CMake                    4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+C                        3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 49 mins      █████████████████████░░░░   82.35 % 
-Visual Studio            3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+VS Code                  15 hrs 7 mins       █████████████████████░░░░   82.64 % 
+Visual Studio            3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 
 🐱‍💻 Projects: 
-Nomadic-Gateway-Demo     11 hrs 54 mins      █████████████████░░░░░░░░   66.14 % 
-Dynamic-System-Framework-3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-PxM-Lib                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Nomadic-Gateway-Demo     11 hrs 54 mins      ████████████████░░░░░░░░░   65.06 % 
+Dynamic-System-Framework-3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+PxM-Lib                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+nomadic-gateway-core     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 
- Last Updated on 25/06/2026 02:26:54 UTC
+ Last Updated on 25/06/2026 07:33:47 UTC
 <!--END_SECTION:waka-->
