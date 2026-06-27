@@ -1,28 +1,27 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Python                   5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-CMake                    4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-C                        3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+C++                      7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+CMake                    4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+C                        3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 7 mins       ██████████████████████░░░   86.36 % 
-Visual Studio            3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+VS Code                  21 hrs 59 mins      ██████████████████████░░░   88.64 % 
+Visual Studio            2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 
 🐱‍💻 Projects: 
-Nomadic-Gateway-Demo     11 hrs 54 mins      █████████████░░░░░░░░░░░░   51.10 % 
-nomadic-gateway-core     5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Dynamic-System-Framework-3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-PxM-Lib                  2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-RoboticArm_MathModelling 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Nomadic-Gateway-Demo     11 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.22 % 
+nomadic-gateway-core     7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Dynamic-System-Framework-3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+PxM-Lib                  2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
 
- Last Updated on 27/06/2026 02:12:57 UTC
+ Last Updated on 27/06/2026 06:45:51 UTC
 <!--END_SECTION:waka-->
