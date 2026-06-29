@@ -1,27 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   40.16 % 
-Python                   7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-C                        5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-CMake                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+C++                      14 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   41.13 % 
+Python                   7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+C                        7 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+CMake                    2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+GLSL                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 40 mins      ███████████████████████░░   93.74 % 
-Visual Studio            1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+VS Code                  32 hrs 55 mins      ████████████████████████░   94.87 % 
+Visual Studio            1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🐱‍💻 Projects: 
-Nomadic-Gateway-Demo     11 hrs 57 mins      ███████████░░░░░░░░░░░░░░   42.06 % 
-Dynamic-System-Framework-8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-nomadic-gateway-core     7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-PxM-Lib                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Dynamic-System-Framework-14 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.76 % 
+Nomadic-Gateway-Demo     11 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.47 % 
+nomadic-gateway-core     7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Coverage_Optimisation    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+PxM-Lib                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 29/06/2026 02:34:32 UTC
+ Last Updated on 29/06/2026 08:49:32 UTC
 <!--END_SECTION:waka-->
