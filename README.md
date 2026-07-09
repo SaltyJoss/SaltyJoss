@@ -1,27 +1,27 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   37.17 % 
-C++                      16 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   34.41 % 
-CMake                    5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-GLSL                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-C                        2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Python                   18 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.14 % 
+C++                      18 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   34.92 % 
+CMake                    5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+GLSL                     4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+C                        3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 8 mins       █████████████████████████   99.93 % 
-Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  52 hrs 5 mins       █████████████████████████   99.94 % 
+Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-project-4736251          18 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
-nomadic-gateway-core     17 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   37.67 % 
-Dynamic-System-Framework-10 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+nomadic-gateway-core     19 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.91 % 
+project-4736251          18 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.13 % 
+Dynamic-System-Framework-13 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 
- Last Updated on 09/07/2026 01:59:29 UTC
+ Last Updated on 09/07/2026 07:28:40 UTC
 <!--END_SECTION:waka-->
