@@ -1,25 +1,25 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2042%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      35 hrs 3 mins       ███████████████░░░░░░░░░░   58.04 % 
-C                        10 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Markdown                 4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Python                   3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-GLSL                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+C++                      35 hrs 27 mins      ███████████████░░░░░░░░░░   59.72 % 
+C                        9 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Markdown                 4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python                   3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+GLSL                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  60 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  59 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-33 hrs 36 mins      ██████████████░░░░░░░░░░░   55.65 % 
-nomadic-gateway-core     26 hrs 45 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
+Dynamic-System-Framework-32 hrs 35 mins      ██████████████░░░░░░░░░░░   54.88 % 
+nomadic-gateway-core     26 hrs 45 mins      ███████████░░░░░░░░░░░░░░   45.07 % 
 bring_up                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 26/07/2026 01:51:24 UTC
+ Last Updated on 26/07/2026 06:28:44 UTC
 <!--END_SECTION:waka-->
