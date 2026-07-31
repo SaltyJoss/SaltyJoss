@@ -14,26 +14,26 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      52 hrs 15 mins      ████████████████░░░░░░░░░   65.10 % 
-C                        16 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Python                   3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-GLSL                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+C++                      47 hrs 56 mins      ████████████████░░░░░░░░░   65.61 % 
+C                        14 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Python                   2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+GLSL                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-VS Code                  80 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  73 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-54 hrs 24 mins      █████████████████░░░░░░░░   67.77 % 
-nomadic-gateway-core     24 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   30.81 % 
-PxM-Lib                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-bring_up                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Dynamic-System-Framework-55 hrs 24 mins      ███████████████████░░░░░░   75.84 % 
+nomadic-gateway-core     16 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+PxM-Lib                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+pxmlib-src               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -43,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2026 01:53:13 UTC
+ Last Updated on 31/07/2026 06:36:22 UTC
 <!--END_SECTION:waka-->
