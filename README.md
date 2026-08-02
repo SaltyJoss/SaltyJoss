@@ -14,34 +14,34 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      45 hrs 7 mins       █████████████████░░░░░░░░   68.47 % 
-C                        13 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Python                   2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Objective-C              1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-XML                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+C++                      47 hrs 54 mins      █████████████████░░░░░░░░   69.40 % 
+C                        14 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Python                   2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Objective-C              1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+XML                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  65 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  69 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-47 hrs 30 mins      ██████████████████░░░░░░░   72.10 % 
-nomadic-gateway-core     15 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-PxM-Lib                  2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-pxmlib-src               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Dynamic-System-Framework-50 hrs 39 mins      ██████████████████░░░░░░░   73.38 % 
+nomadic-gateway-core     15 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+PxM-Lib                  2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+pxmlib-src               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.11%)
+⏱ AI Coding Time: 4 mins (0.1%)
 
-✍️ 0 lines written by AI, 5,471 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,894 lines written by hand (0.0% AI-written)
 
 🔤 34,047 Input Tokens, 371 Output Tokens
 
@@ -59,5 +59,5 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/08/2026 01:50:55 UTC
+ Last Updated on 02/08/2026 06:25:52 UTC
 <!--END_SECTION:waka-->
