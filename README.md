@@ -16,6 +16,48 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2025%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/08/2026 06:51:18 UTC
+```text
+💬 Programming Languages: 
+C++                      44 hrs 9 mins       ██████████████████░░░░░░░   71.47 % 
+C                        11 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Python                   2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Objective-C              1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+XML                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+
+🔥 Editors: 
+VS Code                  61 hrs 46 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Dynamic-System-Framework-43 hrs 16 mins      ██████████████████░░░░░░░   70.04 % 
+nomadic-gateway-core     15 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+PxM-Lib                  2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+pxmlib-src               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 mins (0.12%)
+
+✍️ 0 lines written by AI, 5,731 lines written by hand (0.0% AI-written)
+
+🔤 34,047 Input Tokens, 371 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 03/08/2026 11:12:25 UTC
 <!--END_SECTION:waka-->
