@@ -14,25 +14,25 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      40 hrs 58 mins      █████████████████░░░░░░░░   69.15 % 
-C                        12 hrs              █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Python                   2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Objective-C              1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+C++                      35 hrs 39 mins      ███████████████░░░░░░░░░░   59.99 % 
+Python                   10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+C                        9 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Objective-C              2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  59 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-36 hrs 47 mins      ████████████████░░░░░░░░░   62.09 % 
-nomadic-gateway-core     15 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-PxM-Lib                  6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Dynamic-System-Framework-35 hrs 1 min        ███████████████░░░░░░░░░░   58.92 % 
+nomadic-gateway-core     17 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+PxM-Lib                  6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 pxmlib-src               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
@@ -41,7 +41,7 @@ pxmlib-src               38 mins             ░░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 4 mins (0.12%)
 
-✍️ 0 lines written by AI, 5,484 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,999 lines written by hand (0.0% AI-written)
 
 🔤 34,047 Input Tokens, 371 Output Tokens
 
@@ -59,5 +59,5 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/08/2026 01:42:09 UTC
+ Last Updated on 05/08/2026 06:19:22 UTC
 <!--END_SECTION:waka-->
