@@ -14,50 +14,33 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C434%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      37 hrs 10 mins      ██████████████░░░░░░░░░░░   54.63 % 
-Python                   15 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-C                        10 hrs 20 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Objective-C              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-CSS                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+C++                      34 hrs 36 mins      █████████████░░░░░░░░░░░░   52.80 % 
+Python                   15 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+C                        9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Objective-C              1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  68 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  65 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-36 hrs 4 mins       █████████████░░░░░░░░░░░░   53.02 % 
-nomadic-gateway-core     26 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
-PxM-Lib                  5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-pxmlib-src               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Dynamic-System-Framework-33 hrs              █████████████░░░░░░░░░░░░   50.36 % 
+nomadic-gateway-core     28 hrs 28 mins      ███████████░░░░░░░░░░░░░░   43.44 % 
+PxM-Lib                  4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.11%)
-
-✍️ 0 lines written by AI, 6,899 lines written by hand (0.0% AI-written)
-
-🔤 34,047 Input Tokens, 371 Output Tokens
-
-💵 $0.11 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 00:53:58 UTC
+ Last Updated on 08/08/2026 04:46:14 UTC
 <!--END_SECTION:waka-->
