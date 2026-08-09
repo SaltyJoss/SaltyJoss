@@ -14,25 +14,26 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C434%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      34 hrs 36 mins      █████████████░░░░░░░░░░░░   52.80 % 
-Python                   15 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-C                        9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Objective-C              1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+C++                      30 hrs 33 mins      █████████████░░░░░░░░░░░░   50.71 % 
+Python                   15 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+C                        8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+CSS                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  65 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  60 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dynamic-System-Framework-33 hrs              █████████████░░░░░░░░░░░░   50.36 % 
-nomadic-gateway-core     28 hrs 28 mins      ███████████░░░░░░░░░░░░░░   43.44 % 
-PxM-Lib                  4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+nomadic-gateway-core     28 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.24 % 
+Dynamic-System-Framework-27 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.20 % 
+PxM-Lib                  4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+pxmlib-src               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -42,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2026 00:57:07 UTC
+ Last Updated on 09/08/2026 04:54:48 UTC
 <!--END_SECTION:waka-->
