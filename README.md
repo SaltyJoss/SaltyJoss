@@ -14,25 +14,25 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C449%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      28 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.37 % 
-Python                   15 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-C                        7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+C++                      23 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.51 % 
+Python                   15 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+C                        6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+XML                      2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  57 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  52 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     28 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.91 % 
-Dynamic-System-Framework-23 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.94 % 
-PxM-Lib                  4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+nomadic-gateway-core     28 hrs 28 mins      ██████████████░░░░░░░░░░░   54.62 % 
+Dynamic-System-Framework-22 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.92 % 
+PxM-Lib                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 pxmlib-src               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -43,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2026 00:58:34 UTC
+ Last Updated on 11/08/2026 04:57:50 UTC
 <!--END_SECTION:waka-->
