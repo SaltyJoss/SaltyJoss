@@ -14,35 +14,8 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%201%20min-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      23 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.49 % 
-Python                   13 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-C                        6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-XML                      4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-INI                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-
-🔥 Editors: 
-VS Code                  53 hrs 36 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-nomadic-gateway-core     28 hrs 49 mins      █████████████░░░░░░░░░░░░   53.76 % 
-Dynamic-System-Framework-23 hrs 36 mins      ███████████░░░░░░░░░░░░░░   44.03 % 
-PxM-Lib                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-pxmlib-src               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-bring_up                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2029%20mins-blue?style=flat)
 
 
- Last Updated on 13/08/2026 01:06:39 UTC
+ Last Updated on 13/08/2026 05:26:47 UTC
 <!--END_SECTION:waka-->
