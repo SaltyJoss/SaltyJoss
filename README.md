@@ -14,26 +14,26 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      20 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   41.05 % 
-Python                   15 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-C                        4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-XML                      4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-INI                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+C++                      21 hrs 40 mins      ███████████░░░░░░░░░░░░░░   43.32 % 
+Python                   11 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+C                        7 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+XML                      4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+INI                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  50 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     26 hrs 53 mins      █████████████░░░░░░░░░░░░   53.32 % 
-Dynamic-System-Framework-22 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.99 % 
-PxM-Lib                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-bring_up                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+nomadic-gateway-core     26 hrs 17 mins      █████████████░░░░░░░░░░░░   52.56 % 
+Dynamic-System-Framework-22 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.71 % 
+PxM-Lib                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+bring_up                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 pxmlib-src               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -44,5 +44,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/08/2026 01:05:46 UTC
+ Last Updated on 14/08/2026 05:24:25 UTC
 <!--END_SECTION:waka-->
