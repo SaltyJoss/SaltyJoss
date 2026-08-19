@@ -16,6 +16,33 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2022%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 19/08/2026 04:26:58 UTC
+```text
+💬 Programming Languages: 
+C++                      21 hrs 40 mins      █████████████░░░░░░░░░░░░   51.14 % 
+C                        11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Python                   6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JavaScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+INI                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+
+🔥 Editors: 
+VS Code                  42 hrs 23 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+nomadic-gateway-core     24 hrs 35 mins      ███████████████░░░░░░░░░░   58.02 % 
+Dynamic-System-Framework-9 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+interactive-robot        6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+state_machine_r4         1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+esp32-emulator           44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 19/08/2026 08:23:58 UTC
 <!--END_SECTION:waka-->
