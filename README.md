@@ -7,27 +7,27 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C529%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      16 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-Python                   15 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   35.77 % 
-C                        10 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-INI                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C++                      17 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.92 % 
+Python                   16 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
+C                        10 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+INI                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  46 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     26 hrs 56 mins      ████████████████░░░░░░░░░   62.32 % 
-Dynamic-System-Framework-7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-interactive-robot        6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-state_machine_r4         1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-esp32-emulator           44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+nomadic-gateway-core     30 hrs 51 mins      █████████████████░░░░░░░░   66.52 % 
+Dynamic-System-Framework-7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+interactive-robot        6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+state_machine_r4         55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+scripts                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2026 00:39:25 UTC
+ Last Updated on 22/08/2026 04:22:10 UTC
 <!--END_SECTION:waka-->
