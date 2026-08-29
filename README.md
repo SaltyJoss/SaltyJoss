@@ -7,27 +7,27 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C559%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-C++                      10 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-C                        7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-XML                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JavaScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Python                   11 hrs              ████████░░░░░░░░░░░░░░░░░   33.06 % 
+C++                      5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+C                        4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+JavaScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+XML                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     25 hrs 44 mins      █████████████████░░░░░░░░   66.02 % 
-Dynamic-System-Framework-7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-PxM-Lib                  3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-state_machine_r4         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-scripts                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+nomadic-gateway-core     21 hrs 32 mins      ████████████████░░░░░░░░░   64.73 % 
+Dynamic-System-Framework-7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+PxM-Lib                  3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+scripts                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+pxmlib-src               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/08/2026 00:14:57 UTC
+ Last Updated on 29/08/2026 10:35:02 UTC
 <!--END_SECTION:waka-->
