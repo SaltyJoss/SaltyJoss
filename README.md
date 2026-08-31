@@ -13,21 +13,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs              ████████░░░░░░░░░░░░░░░░░   33.06 % 
-C++                      5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-C                        4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-JavaScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-XML                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Python                   11 hrs              █████████░░░░░░░░░░░░░░░░   36.03 % 
+C++                      4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JavaScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+C                        4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+XML                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     21 hrs 32 mins      ████████████████░░░░░░░░░   64.73 % 
-Dynamic-System-Framework-7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-PxM-Lib                  3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-scripts                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-pxmlib-src               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+nomadic-gateway-core     21 hrs 32 mins      ██████████████████░░░░░░░   70.55 % 
+Dynamic-System-Framework-5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+PxM-Lib                  3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+scripts                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +36,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 02:21:57 UTC
+ Last Updated on 31/08/2026 10:15:22 UTC
 <!--END_SECTION:waka-->
