@@ -13,21 +13,21 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.24 % 
-C++                      12 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-C                        4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JavaScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   16 hrs 55 mins      ███████████░░░░░░░░░░░░░░   43.97 % 
+C++                      12 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.72 % 
+C                        4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JavaScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  38 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     31 hrs 40 mins      ███████████████████░░░░░░   77.33 % 
-Dynamic-System-Framework-3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-PxM-Lib                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Unknown Project          1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-state_machine            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+nomadic-gateway-core     29 hrs 11 mins      ███████████████████░░░░░░   75.87 % 
+Dynamic-System-Framework-3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+PxM-Lib                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Unknown Project          1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+state_machine            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 02:07:27 UTC
+ Last Updated on 10/09/2026 08:30:17 UTC
 <!--END_SECTION:waka-->
