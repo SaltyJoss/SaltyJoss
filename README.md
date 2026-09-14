@@ -13,21 +13,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.32 % 
-C++                      6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-INI                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-C                        2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   8 hrs 58 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+C++                      3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+INI                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+C                        1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     17 hrs 11 mins      ██████████████████░░░░░░░   71.52 % 
-Dynamic-System-Framework-2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Unknown Project          1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-PxM-Lib                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-state_machine            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+nomadic-gateway-core     17 hrs 11 mins      █████████████████████░░░░   85.11 % 
+Unknown Project          1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+state_machine            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +35,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 02:24:01 UTC
+ Last Updated on 14/09/2026 09:22:56 UTC
 <!--END_SECTION:waka-->
