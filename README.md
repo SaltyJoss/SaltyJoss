@@ -7,25 +7,23 @@
  * Real-world applications of computational modelling
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C608%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-INI                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-C++                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-TOML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+C++                      5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
+INI                      4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+Python                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+C                        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     10 hrs 49 mins      ████████████████████░░░░░   78.25 % 
-Unknown Project          1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-state_machine            1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+nomadic-gateway-core     14 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -35,5 +33,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 02:23:08 UTC
+ Last Updated on 16/09/2026 08:56:45 UTC
 <!--END_SECTION:waka-->
