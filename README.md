@@ -11,19 +11,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 51 mins       ███████████████████████░░   91.31 % 
-C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   4 hrs 51 mins       ███████████████████████░░   93.76 % 
+C++                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nomadic-gateway-core     5 hrs 11 mins       ████████████████████████░   97.76 % 
-Dynamic-System-Framework-7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-PxM-Lib                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+nomadic-gateway-core     5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -33,5 +28,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2026 02:22:50 UTC
+ Last Updated on 15/10/2026 08:41:21 UTC
 <!--END_SECTION:waka-->
